@@ -1,3 +1,3 @@
 .github/
 └── workflows/
-    └── your-workflow-name.yml
+    └── myproject.yml
